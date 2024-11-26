@@ -1,5 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarcusDeslandes/MarcusDeslandes/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarcusDeslandes/MarcusDeslandes/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MarcusDeslandes/MarcusDeslandes/output/github-contribution-grid-snake.svg">
+</picture>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Marcus+Vinicius+Deslandes;I'm+30+years+old;I+am+from+Belo+Horizonte,+MG;I+study+Data+Science+;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
@@ -37,11 +43,5 @@
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{MarcusDeslandes}/count.svg" /></p> 
 <br></div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarcusDeslandes/MarcusDeslandes/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarcusDeslandes/MarcusDeslandes/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MarcusDeslandes/MarcusDeslandes/output/github-contribution-grid-snake.svg">
-</picture>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
